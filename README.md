@@ -8,4 +8,5 @@ Welcome to my project.
 - Login
 - Dashboard
 - Reports
+- payments
 
